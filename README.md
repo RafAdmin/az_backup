@@ -1,10 +1,10 @@
 #Autozapi
 
-O Atendechat é uma empresa distribuidora de White Label que possui uma solução de atendimentos via Whatsapp que aumenta a produtividade e organização das equipes
+O AutoZapi é uma empresa de solução de atendimentos via Whatsapp que aumenta a produtividade e organização das equipes
 
 ## 🚀 Começando
 
-O repositório do Atendechat possui 3 pastas importantes:
+O repositório do AutoZapi possui 3 pastas importantes:
 - backend
 - frontend
 - instalador
